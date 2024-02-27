@@ -3,6 +3,6 @@ This repository contains Python code implementing a maze environment for reinfor
 
 Setup
 Before using the code, make sure to install the required dependencies:
-'''
+```
 pip install gym==0.23.0
-'''
+```
