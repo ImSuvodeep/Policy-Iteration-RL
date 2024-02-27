@@ -1,4 +1,5 @@
-##Maze Environment for Reinforcement Learning
+Maze Environment for Reinforcement Learning 
+
 This repository contains Python code implementing a maze environment for reinforcement learning tasks. The environment is designed to be used with OpenAI Gym.
 
 Setup
